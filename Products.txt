@@ -1,0 +1,2 @@
+Laptops,100,Dell
+Tablets,200,Samsung
